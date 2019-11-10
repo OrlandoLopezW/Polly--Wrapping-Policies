@@ -12619,11 +12619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demos\\PollyDemo\\PollyDemo\\PollyDemo.csproj",
+      "projectUniqueName": "D:\\Demos\\Polly--Wraping-Policies\\PollyDemo\\PollyDemo.csproj",
       "projectName": "PollyDemo",
-      "projectPath": "D:\\Demos\\PollyDemo\\PollyDemo\\PollyDemo.csproj",
+      "projectPath": "D:\\Demos\\Polly--Wraping-Policies\\PollyDemo\\PollyDemo.csproj",
       "packagesPath": "C:\\Users\\GYS\\.nuget\\packages\\",
-      "outputPath": "D:\\Demos\\PollyDemo\\PollyDemo\\obj\\",
+      "outputPath": "D:\\Demos\\Polly--Wraping-Policies\\PollyDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

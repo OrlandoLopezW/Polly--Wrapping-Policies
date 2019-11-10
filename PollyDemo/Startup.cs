@@ -75,7 +75,6 @@ namespace PollyDemo
         {
             if (httpRequestMessage.Method == HttpMethod.Get)
             {
-                //return policyRegistry.Get<IAsyncPolicy<HttpResponseMessage>>("SimpleHttpRetryPolicy");
                 return policyRegistry.Get<IAsyncPolicy<HttpResponseMessage>>("wrapping");
             }
             else if (httpRequestMessage.Method == HttpMethod.Post)
